@@ -3,7 +3,7 @@
 The Opinion Consolidator is a program that finds the opinions regarding the wanted topic. It then analyzes the data and puts it in terms of text and graphs for the user to understand. 
 
 ## How to Use
-### **Download the required environments from the "requirements.txt" file**
+### **Download the required environments from the ["requirements.txt" file](https://github.com/knguyen271/Opinion-Consolidator/blob/main/requirements.txt)**
 
 Run the file called "main.py" and wait for the GUI to show up. When the GUI shows up, input the wanted topic in the textbox instructed and click the submit button. The consolidator then looks for comments about the topic and after a minute it gives the data in graphs and text.  
 
